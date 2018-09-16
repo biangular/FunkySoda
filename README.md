@@ -5,5 +5,5 @@ Robotic projects based on LEGO EV3
 
 # Tools to use for EV3 programming
 ## Microsoft Makecode
-[web base](https://makecode.microbit.org/)
-[Store](https://www.microsoft.com/en-us/p/makecode-for-micro-bit/9pjc7sv48lcx)
+[MakeCode for EV3](https://makecode.com/blog/lego/05-15-2018)
+https://makecode.com/blog/lego/05-15-2018
