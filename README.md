@@ -15,3 +15,9 @@ https://www.youtube.com/watch?v=N5fzepIrFw8&t=3s
 # Robot Games
 ## Welcome to the INTO ORBIT season - Robot Game
 https://www.youtube.com/watch?v=lY1Z9kK71jQ&t=42s
+
+# FIRST LEGO League
+## Challenge
+http://www.firstlegoleague.org/challenge
+## Mission Model Building Instructions
+http://www.firstlegoleague.org/missionmodelbuildinginstructions
