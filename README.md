@@ -21,3 +21,6 @@ https://www.youtube.com/watch?v=lY1Z9kK71jQ&t=42s
 http://www.firstlegoleague.org/challenge
 ## Mission Model Building Instructions
 http://www.firstlegoleague.org/missionmodelbuildinginstructions
+
+## NASA - Keeping Astronauts Healthy In Space
+https://www.nasa.gov/vision/space/travelinginspace/30sept_spacemedicine.html
