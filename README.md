@@ -24,3 +24,6 @@ http://www.firstlegoleague.org/missionmodelbuildinginstructions
 
 ## NASA - Keeping Astronauts Healthy In Space
 https://www.nasa.gov/vision/space/travelinginspace/30sept_spacemedicine.html
+
+## Microsoft Word - Health_Web.doc
+https://www.lpi.usra.edu/education/space_days/activities/healthInSpace/aboutHealthInSpace.pdf
